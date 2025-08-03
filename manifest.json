@@ -1,0 +1,12 @@
+{
+	"manifest_version": 3,
+	"name": "cookies and sessionStorage adder",
+	"version": "1.2",
+	"description": "Automatyczne dodawanie wybranych ciasteczek i wartości do sessionStorage",
+	"permissions": ["cookies", "activeTab", "scripting"],
+	"host_permissions": ["<all_urls>"],
+	"action": {
+		"default_popup": "popup.html",
+		"default_title": "cookies and sessionStorage adder"
+	}
+}
