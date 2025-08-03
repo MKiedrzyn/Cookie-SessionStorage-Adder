@@ -1,6 +1,7 @@
 # 🏋️ Cookies and SessionStorage Adder
 
 Rozszerzenie przeglądarki Chrome umożliwiające szybkie dodawanie zdefiniowanych ciasteczek oraz wpisów do `sessionStorage` na aktywnej karcie. Ułatwia testowanie i debugowanie aplikacji webowych.
+
 ![Cookie-SessionStorage-Adder](https://github.com/user-attachments/assets/73d2922d-e166-46d4-8726-1024f1776ba1)
 
 ## 🔧 Funkcje
