@@ -62,3 +62,4 @@ Uprawnienia te są potrzebne do dodawania ciasteczek oraz modyfikowania zawarto�
 * Rozszerzenie działa tylko na aktywnej karcie przeglądarki.
 * Ciasteczka i dane `sessionStorage` muszą być uprzednio skonfigurowane w kodzie źródłowym (`popup.js`).
 * Rozszerzenie nie zapisuje danych dynamicznie – wartości muszą być ręcznie podane w kodzie.
+![Cookie-SessionStorage-Adder](https://github.com/user-attachments/assets/73d2922d-e166-46d4-8726-1024f1776ba1)
